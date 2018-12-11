@@ -1,13 +1,16 @@
-package com.xishuipang.xishuipang01;
+package com.xishuipang.xishuipang01.View;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.xishuipang.xishuipang01.R;
+
+
+public class CurrentIssue extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_current_issue);
     }
 }
