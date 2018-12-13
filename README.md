@@ -1,6 +1,8 @@
 # xishuipang
-the android app of "溪水旁杂志"
+## Intro
+the android app of "溪水旁杂志", Xishuipang(By the Stream) is a christian magazine edited, published and maintained by Toronto Chinese Gospel Church.
 
+## Update
 12-11项目停更
 12-17后继续
 
