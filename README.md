@@ -5,6 +5,4 @@ the android app of "溪水旁杂志", Xishuipang(By the Stream) is a christian m
 ## Update
 12-11项目停更
 
-
-Thank [Gavin](https://github.com/sx2gavin),[ChenLi](https://github.com/chenli888) for support.<br>
 ©2018 Chinese Gospel Church. All right reserved.
